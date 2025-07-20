@@ -7,7 +7,7 @@ I'm a student at [Hive Helsinki](https://www.hive.fi/), a 42 Network programming
 - 🌱 I’m currently learning:
   - to board and ship projects more quickly
   - also, TypeScript and the web ecosystem
----
+
 ## Some Projects:
 
 > These projects are essentially written from scratch, and following the '42 Norm' C formatting standard.
