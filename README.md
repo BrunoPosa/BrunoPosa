@@ -16,13 +16,12 @@ I'm a student at [Hive Helsinki](https://www.hive.fi/), a 42 Network programming
     </td>
     <td style="vertical-align: top; padding-left: 20px; font-family: Arial, sans-serif; color: #ccc;">
 
-<strong>Tools I use:</strong>
+<strong>Other Tools:</strong>
 <ul style="list-style-type: disc; margin-top: 5px; padding-left: 20px;">
-  <li>git</li>
+  <li>Make</li>
   <li>docker</li>
-  <li>C++</li>
-  <li>C</li>
-  <li>Bash</li>
+  <li>Valgrind</li>
+  <li>Shell scripts</li>
 </ul>
     </td>
   </tr>
