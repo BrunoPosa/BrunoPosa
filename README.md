@@ -24,7 +24,6 @@ I'm a student at [Hive Helsinki](https://www.hive.fi/), a 42 Network programming
   <li>C</li>
   <li>Bash</li>
 </ul>
-
     </td>
   </tr>
 </table>
