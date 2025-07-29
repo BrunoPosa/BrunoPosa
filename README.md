@@ -8,24 +8,9 @@ I'm a student at [Hive Helsinki](https://www.hive.fi/), a 42 Network programming
   - to board and ship projects more quickly
   - also, TypeScript and the web ecosystem
 
-<table>
-  <tr>
-    <td>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoPosa&layout=compact&theme=dark)
-    </td>
-    <td style="vertical-align: top; padding-top: 0px; padding-left: 20px; font-family: Arial, sans-serif; color: #ccc;">
-
 <strong>Other Tools:</strong>
-<ul style="list-style-type: disc; margin-top: 0px; padding-left: 20px;">
-  <li>Make</li>
-  <li>docker</li>
-  <li>Valgrind</li>
-  <li>Shell scripts</li>
-</ul>
-    </td>
-  </tr>
-</table>
+<p>Make, Docker, Valgrind, Shell scripts</p>
 
 ## Some Projects:
 
