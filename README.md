@@ -9,6 +9,7 @@ I'm a student at [Hive Helsinki](https://www.hive.fi/), a 42 Network programming
   - also, TypeScript and the web ecosystem
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoPosa&layout=compact&theme=dark)
+
 <strong>Other Tools:</strong>
 <p>Make, Docker, Valgrind, Shell scripts</p>
 
