@@ -3,7 +3,7 @@
 I'm a student at [Hive Helsinki](https://www.hive.fi/), a 42 Network programming school.
 
 
-- 🔭 I’m currently working on a website to play pong with friends (TRANSCENDENCE)
+- 🔭 I’m currently working on a [pong website](https://github.com/Torutu/ft_transcendence) [ft_transcendence]
 - 🌱 I’m currently learning:
   - to board and ship projects more quickly
   - also, TypeScript and the web ecosystem
