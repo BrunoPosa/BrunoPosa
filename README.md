@@ -2,10 +2,10 @@
 
 I'm a graduate of [Hive Helsinki](https://www.hive.fi/), a 42 Network programming school. I like UX design thinking and physical production systems.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoPosa&layout=compact&theme=dark)
 
-<strong>Other Tools:</strong>
-<p>Make, Docker, Valgrind, Shell scripts</p>
+
+<strong>Tools:</strong>
+<p>C, C++, Make, Docker, Valgrind, Bash</p>
 
 ## Some Projects:
 
